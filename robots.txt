@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://dragonneat.github.io/dragon/sitemaps.xml
